@@ -1,0 +1,9 @@
+{
+  "build": "4.8.1-nightly",
+  "date": "2026-04-02 18:33:21",
+  "commit": "f3a9e8c1",
+  "compiler": "MSVC 19.40 / CMake 3.29",
+  "author": "nycto & nova",
+  "status": "undetected",
+  "uptime": "84 days 12 hours"
+}
