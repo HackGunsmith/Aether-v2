@@ -1,0 +1,4 @@
+Last heartbeat: 2026-24-03
+Current online: 901
+Peak today: 901
+Active configs: rage (100), legit (800), stream (1)
