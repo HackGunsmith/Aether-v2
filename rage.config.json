@@ -1,0 +1,21 @@
+{
+  "name": "rage",
+  "aim": {
+    "fov": 360,
+    "smooth": 0.1,
+    "bone": "head",
+    "hitchance": 100,
+    "psilent": true,
+    "target_switch_delay": 0
+  },
+  "visuals": {
+    "chams": true,
+    "chams_visible": [255, 0, 255, 200],
+    "chams_hidden": [0, 255, 255, 120]
+  },
+  "exploits": {
+    "rapid_fire": true,
+    "hitbox_expand": 2.4,
+    "instant_reload": true
+  }
+}
