@@ -1,0 +1,31 @@
+{
+  "name": "legit",
+  "aim": {
+    "enabled": true,
+    "fov": 48,
+    "smooth": 14.8,
+    "bone": "head",
+    "prediction": true,
+    "hitchance": 94,
+    "rcs": true,
+    "rcs_strength": 82
+  },
+  "visuals": {
+    "box": true,
+    "skeleton": true,
+    "health": true,
+    "name": false,
+    "weapon": true,
+    "distance": true,
+    "max_distance": 220
+  },
+  "colors": {
+    "visible": [168, 92, 255, 255],
+    "occluded": [255, 50, 110, 160]
+  },
+  "misc": {
+    "thirdperson": false,
+    "fov": 103,
+    "streamproof": true
+  }
+}
